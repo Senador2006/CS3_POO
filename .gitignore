@@ -1,0 +1,13 @@
+bin/
+sources.txt
+.idea/workspace.xml
+*.class
+.idea/
+.vscode/
+lib/
+*.log
+*.jar
+*.txt
+*.bat
+*.iml
+
