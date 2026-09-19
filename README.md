@@ -133,6 +133,3 @@ O console continua usando CRÍTICO / ALTO / MODERADO da Sprint 2. No banco, o hi
 | ORA-02292 | Apague a intervenção (filha) antes do trecho/equipe |
 | Connection closed | Chame `conectar()` antes das operações |
 
-## Autor
-
-Projeto acadêmico — FIAP, 2º ano, POO — Challenge Sprint 3.
